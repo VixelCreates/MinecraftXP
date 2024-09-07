@@ -38,4 +38,6 @@ Exapnsions are mods/modpacks that adds extra content to the game
 - [BetterEnd](https://modrinth.com/mod/betterend) - New Biomes, mysterious rituals and Mobs for your End
 - [Create](https://modrinth.com/mod/create) - Aesthetic Technology that empowers the Player
 - [Etched](https://modrinth.com/mod/etched) - Create and play your very own records
+## Modpacks
+- [ConquestReforged](https://conquestreforged.com/) - aesthetic Minecraft mod to enhance builds
 ### Work in progress ...
