@@ -25,5 +25,10 @@ You don't have to use everything from the list, you can change or remove anythin
 - [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) - Bringing first-person animations to the third-person
 - [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-player) - a Player Animation texture pack
 - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) - Dynamic animated entities to freshen your Minecraft experience.
-- []()
+- [Cubic Sun & Moon](https://modrinth.com/resourcepack/cubic-sun-moon) - Recreates the Sun and the Moon in 3D
+- [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves) - Improves the appearance of leaves
+- [Better Combat](https://modrinth.com/mod/better-combat) - Easy, spectacular and fun melee combat system
+- [Visuality](https://modrinth.com/mod/visuality) - Little visual improvements by adding a bunch of new particles
+- [Visual Workbench](https://modrinth.com/mod/visual-workbench) - Items stay inside of crafting tables
+- []() -
 ### Work in progress ...
