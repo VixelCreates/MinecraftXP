@@ -30,5 +30,9 @@ You don't have to use everything from the list, you can change or remove anythin
 - [Better Combat](https://modrinth.com/mod/better-combat) - Easy, spectacular and fun melee combat system
 - [Visuality](https://modrinth.com/mod/visuality) - Little visual improvements by adding a bunch of new particles
 - [Visual Workbench](https://modrinth.com/mod/visual-workbench) - Items stay inside of crafting tables
+- [Figura](https://figuramc.org/) - customize the player model
+- [FancyMenu](https://modrinth.com/mod/fancymenu) - Customize Minecraft's menus with ease
+- 
 - []() -
+- []() - 
 ### Work in progress ...
