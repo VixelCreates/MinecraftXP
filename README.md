@@ -36,6 +36,8 @@ You don't have to use everything from the list, you can change or remove anythin
 - [Figura](https://figuramc.org/) - customize the player model
 - [FancyMenu](https://modrinth.com/mod/fancymenu) - Customize Minecraft's menus with ease
 
+## Shaders
+- [Photon Shader](https://modrinth.com/shader/photon-shader) - A gameplay-focused shader pack
   
 # Expansions
 Exapnsions are mods/modpacks that adds extra content to the game that may or may not be compatible with the mods listed above
