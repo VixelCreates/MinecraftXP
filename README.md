@@ -35,6 +35,7 @@ You don't have to use everything from the list, you can change or remove anythin
 - [Visual Workbench](https://modrinth.com/mod/visual-workbench) - Items stay inside of crafting tables
 - [Figura](https://figuramc.org/) - customize the player model
 - [FancyMenu](https://modrinth.com/mod/fancymenu) - Customize Minecraft's menus with ease
+
   
 # Expansions
 Exapnsions are mods/modpacks that adds extra content to the game that may or may not be compatible with the mods listed above
@@ -45,4 +46,10 @@ Exapnsions are mods/modpacks that adds extra content to the game that may or may
 - [Etched](https://modrinth.com/mod/etched) - Create and play your very own records
 ## Modpacks
 - [ConquestReforged](https://conquestreforged.com/) - aesthetic Minecraft mod to enhance builds
+
+## Personal Projects
+if you are interested you can also add these projects that is made by me :)
+- [Vanilla Evolved](https://modrinth.com/resourcepack/vanilla-evolved) - A Vanilla Minecraft Resourcepack
+- [GUI Revision](https://modrinth.com/resourcepack/gui-revision) - A Vanilla GUI Resourcepack
+
 ### Work in progress ...
