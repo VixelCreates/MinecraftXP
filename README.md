@@ -32,8 +32,10 @@ You don't have to use everything from the list, you can change or remove anythin
 - [Visual Workbench](https://modrinth.com/mod/visual-workbench) - Items stay inside of crafting tables
 - [Figura](https://figuramc.org/) - customize the player model
 - [FancyMenu](https://modrinth.com/mod/fancymenu) - Customize Minecraft's menus with ease
+  
 # Expansions
 Exapnsions are mods/modpacks that adds extra content to the game that may or may not be compatible with the mods listed above
+
 ## Mods
 - [BetterEnd](https://modrinth.com/mod/betterend) - New Biomes, mysterious rituals and Mobs for your End
 - [Create](https://modrinth.com/mod/create) - Aesthetic Technology that empowers the Player
