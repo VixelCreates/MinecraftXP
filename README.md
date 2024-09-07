@@ -5,3 +5,5 @@ Remember that this list is not a modpack and I do NOT take ownership of any of t
 
 ## Utility
 - [e4mc](https://e4mc.link/) - Open a LAN server to anyone, anywhere, anytime
+- [Jade](https://modrinth.com/mod/jade) - information HUD mod
+- [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - Display Ping as number
