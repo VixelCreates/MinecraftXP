@@ -1,4 +1,4 @@
-![Banner](https://cdn.discordapp.com/attachments/1108793724575686738/1275831318646620190/Test.png?ex=66dd12c2&is=66dbc142&hm=da44c36971a674b4e7c3075c4027c35baccc5183ab1b71dcdc057154039516de&)
+![Banner](https://cdn.discordapp.com/attachments/1108793724575686738/1281985218240184430/Test.png?ex=66ddb546&is=66dc63c6&hm=d0157f3eb16d3c9738f8f2dff22c876af41dfb3c4d94761ea65e70d972b7bccf&)
 # Introduction
 This page recommends a curated selection of vanilla mods, resource packs and settings that will enhance your Minecraft experience.
 This list is the result of a personal exploration of various Minecraft projects.
