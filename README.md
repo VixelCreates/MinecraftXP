@@ -53,5 +53,3 @@ Exapnsions are mods/modpacks that adds extra content to the game that may or may
 if you are interested you can also add these projects that is made by me :)
 - [Vanilla Evolved](https://modrinth.com/resourcepack/vanilla-evolved) - A Vanilla Minecraft Resourcepack
 - [GUI Revision](https://modrinth.com/resourcepack/gui-revision) - A Vanilla GUI Resourcepack
-
-### Work in progress ...
