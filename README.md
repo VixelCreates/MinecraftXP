@@ -8,6 +8,9 @@ Remember that this list is not a modpack and I do NOT take ownership of any of t
 This list works best with fabric!
 You don't have to use everything from the list, you can change or remove anything based on your personal preference
 
+## Optimization
+- [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) - Or [Simply Optimized](https://modrinth.com/modpack/sop)
+
 ## Utility
 - [e4mc](https://e4mc.link/) - Open a LAN server to anyone, anywhere, anytime
 - [Jade](https://modrinth.com/mod/jade) - information HUD mod
